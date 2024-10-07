@@ -61,6 +61,11 @@ export default siteConfig({
       pageId: '10d52f3a96a2807fb9b7cc375ba9b1f1',
       menuPage: true,
     },
+    {
+      title: 'About Me',
+      url: 'https://icebear2n2.notion.site/11452f3a96a280c995bdd9b7329d8750?pvs=4'
+    }
+    
   ],
 
   // -------- custom configs (2skydev) -------------
